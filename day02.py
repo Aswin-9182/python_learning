@@ -29,7 +29,7 @@ print(type(i))
 j={1,2,3}
 print(type(j))
 #Dict
-k={"a":"b","c":"d"}
+k={"a":b,"c":d}
 print(type(k))
 
 #int to float
